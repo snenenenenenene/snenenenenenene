@@ -13,14 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snenenenenenene)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sennebels//)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](sennebels.xyz)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/sennebels?si=bda042098d244ec2)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snenenenenenene&show_icons=true&locale=en&layout=compact" alt="snenenenenenene" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snenenenenenene) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sennebels//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](sennebels.xyz) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/sennebels?si=bda042098d244ec2)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snenenenenenene&theme=dark" alt="snenenenenenene" /></p>
