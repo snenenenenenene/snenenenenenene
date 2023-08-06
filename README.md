@@ -1,11 +1,9 @@
 <h1 align="center">Hi 🦝 I'm Senne Bels</h1>
-<h3 align="left">Web developer from Belgium</h3>
-<h3 align="left">looking for a job in Canada</h3>
-
+<h3 align="left">Web Developer/Aspiring Game Developer/Designer from Belgium</h3>
 
 - 🏠 I do web development/design, game development, and AI/ML
 
-- 🧘 I’m currently working on [BNB]()
+- 🧘 I’m currently working on [BNB](https://burgernabije-besluitendatabank-dev.s.redhost.be/)
 
 - 🧑‍🎓 I hold a Bachelor's in **Computer Science.**
 
