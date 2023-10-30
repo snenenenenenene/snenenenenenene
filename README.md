@@ -1,17 +1,18 @@
-<h1 align="center">Hi 🦝 I'm Senne Bels</h1>
+## Hi 🦝 I'm Senne Bels
 <h3 align="left">Web Developer/Aspiring Game Developer/Designer from Belgium</h3>
 
-- 🏠 I do web development/design, game development, and AI/ML
+- 🏠 I do web development/design, game development/design, and AI/ML
 
-- 🧘 I’m currently working on [BNB](https://burgernabije-besluitendatabank-dev.s.redhost.be/)
+## The Languages & Tools I mostly use
 
-- 🧑‍🎓 I hold a Bachelor's in **Computer Science.**
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> 
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snenenenenenene) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sennebels//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](sennebels.xyz) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/sennebels?si=bda042098d244ec2)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snenenenenenene&label=Profile%20views&color=0e75b6&style=flat" alt="snenenenenenene" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snenenenenenene&theme=dark" alt="snenenenenenene" /></p>
+[![An image of @snenenenenenene's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snenenenenenene)](https://holopin.io/@snenenenenenene)
