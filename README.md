@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Senne Bels</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
+<h3 align="center">A passionate Creative Developer from Belgium</h3>
 
-- 🔭 I’m currently working on [The Okapi Store](https://the-okapi-webstore.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://www.sennebels.xyz/work](https://www.sennebels.xyz/work)
+- 👨‍💻 All of my projects are available at [https://www.sennebels.com](https://www.sennebels.com)
 
 - 📫 How to reach me **sennebels@gmail.com**
 
-- 📄 Know about my experiences [https://read.cv/snenenenene](https://read.cv/snenenenene)
+- 📄 Know about my experiences: [my Resume]([https://read.cv/snenenenene](https://www.sennebels.com/assets/CV%20Senne%20Bels.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
